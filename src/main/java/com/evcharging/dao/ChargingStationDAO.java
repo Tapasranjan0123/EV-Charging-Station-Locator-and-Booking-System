@@ -80,7 +80,7 @@ public class ChargingStationDAO {
         }
 
         return stations;
-    }
+    }  
 
 
     // Get one charging station by its ID
